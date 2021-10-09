@@ -40,7 +40,11 @@ font-family: 'Poppins';
   margin-top: 50px
   
 }
-
+.btn:hover{
+  box-shadow: 0 3px 0 rgb(45, 46, 47);
+  text-shadow: 0 1px 0 rgb(70, 72, 73);
+  background-color: rgb(230, 109, 230);
+}
 
 
   
