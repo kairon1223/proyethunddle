@@ -30,13 +30,15 @@ font-family: 'Poppins';
 }
 .boton{
   justify-content:center;
+  padding: 20px 20px;
+  border:none;
   display: flex;
   background: white;
   color:hsl(257, 40%, 49%);;
   border-radius: 50px;
-  font-size: 18px; 
+  font-size: 16px; 
   width: 150px;
-  height: 30px;
+  height: 50px;
   margin-top: 50px
   
 }
